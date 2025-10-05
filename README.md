@@ -18,7 +18,7 @@ A few MYSQL commands need to be excuted
 ```bash
   MySQL> source /XII-Project/resources/SQL_cmds.sql
   ```
-Make sure to install the required font(s) in the resources folder
+Make sure to install the required font(s) in the temporary folder
 
 
 
